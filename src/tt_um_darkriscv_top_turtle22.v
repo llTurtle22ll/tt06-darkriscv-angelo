@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 `timescale 1ns / 1ps
-`include "../rtl/config.vh"
+`include "./config.vh"
 
 `define default_netname none
 
